@@ -52,10 +52,10 @@ Contact information
 
 Feel free to reach out:
 
-Email: [Your Email]
+Email: shustind23@gmail.com 
 
-LinkedIn: Your LinkedIn
+LinkedIn: https://www.linkedin.com/in/david-shustin-51948434b/
 
-GitHub: Your GitHub
+GitHub: https://github.com/DavidShustin
 
 ⭐ If you like my work, consider giving a star to this repository!
